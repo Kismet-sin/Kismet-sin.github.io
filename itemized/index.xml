@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Itemized on My New Hugo Site</title>
-    <link>http://example.org/itemized/</link>
+    <link>https://kismet-sin.github.io/itemized/</link>
     <description>Recent content in Itemized on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/itemized/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://kismet-sin.github.io/itemized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fancy App 1</title>
-      <link>http://example.org/itemized/item1/</link>
+      <link>https://kismet-sin.github.io/itemized/item1/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item1/</guid>
+      <guid>https://kismet-sin.github.io/itemized/item1/</guid>
       <description>App 1 </description>
     </item>
     
     <item>
       <title>Fancy App 2</title>
-      <link>http://example.org/itemized/item2/</link>
+      <link>https://kismet-sin.github.io/itemized/item2/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item2/</guid>
+      <guid>https://kismet-sin.github.io/itemized/item2/</guid>
       <description>App 2 </description>
     </item>
     
     <item>
       <title>Fancy App 3</title>
-      <link>http://example.org/itemized/item3/</link>
+      <link>https://kismet-sin.github.io/itemized/item3/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item3/</guid>
+      <guid>https://kismet-sin.github.io/itemized/item3/</guid>
       <description>App 3 </description>
     </item>
     
     <item>
       <title>Fancy App 4</title>
-      <link>http://example.org/itemized/item4/</link>
+      <link>https://kismet-sin.github.io/itemized/item4/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/itemized/item4/</guid>
+      <guid>https://kismet-sin.github.io/itemized/item4/</guid>
       <description>App 4 </description>
     </item>
     
