@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me on My New Hugo Site</title>
+    <title>me on Home , Sweet home</title>
     <link>https://kismet-sin.github.io/categories/me/</link>
-    <description>Recent content in me on My New Hugo Site</description>
+    <description>Recent content in me on Home , Sweet home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>zh-CN</language>
     <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kismet-sin.github.io/categories/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog</title>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kismet-sin.github.io/blog/firstblog/</guid>
-      <description>Hi First blog here! Hope anyone who see this note full of happinese!</description>
+      <description>Hi First blog here! Hope anyone who see this note full of happiness!</description>
     </item>
     
   </channel>

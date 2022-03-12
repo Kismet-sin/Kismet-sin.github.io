@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tutorial on My New Hugo Site</title>
+    <title>tutorial on Home , Sweet home</title>
     <link>https://kismet-sin.github.io/tags/tutorial/</link>
-    <description>Recent content in tutorial on My New Hugo Site</description>
+    <description>Recent content in tutorial on Home , Sweet home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>zh-CN</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://kismet-sin.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
